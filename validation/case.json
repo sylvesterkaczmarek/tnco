@@ -1,0 +1,12 @@
+{
+  "repo": "google-research/tnco",
+  "base_branch": "main",
+  "base": "a11bcdbf86a2798474223dac04c9326d743eec45",
+  "source": "tnco/ordered_frozenset.py",
+  "test": "tests/test_ordered_frozenset_hash.py",
+  "branch": "fix/ordered-frozenset-hash-20260928",
+  "title": "Match OrderedFrozenSet hashing to its set-based equality",
+  "issue": 60,
+  "issue_url": "https://github.com/google-research/tnco/issues/60",
+  "head": "858c5ca9551f03aee95c925be2c9fbe711c34027"
+}
